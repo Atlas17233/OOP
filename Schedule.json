@@ -1,0 +1,705 @@
+{
+  "tStart": "2021-04-27 11:17",
+  "list": [
+    {
+      "tArrival": 649,
+      "name": "Renner",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 1213,
+      "unloadingTerm": 713
+    },
+    {
+      "tArrival": 951,
+      "name": "Gleichner",
+      "cargoType": "LIQUID",
+      "cargoWeight": 294839.78,
+      "unloadingTerm": 8328
+    },
+    {
+      "tArrival": 1029,
+      "name": "Von",
+      "cargoType": "BULK",
+      "cargoWeight": 82874.24,
+      "unloadingTerm": 7144
+    },
+    {
+      "tArrival": 1276,
+      "name": "Lockman",
+      "cargoType": "BULK",
+      "cargoWeight": 26907.969,
+      "unloadingTerm": 2319
+    },
+    {
+      "tArrival": 1441,
+      "name": "Howell",
+      "cargoType": "LIQUID",
+      "cargoWeight": 275938.84,
+      "unloadingTerm": 7794
+    },
+    {
+      "tArrival": 1448,
+      "name": "Feest",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 2268,
+      "unloadingTerm": 1334
+    },
+    {
+      "tArrival": 2147,
+      "name": "Schumm",
+      "cargoType": "LIQUID",
+      "cargoWeight": 280170.62,
+      "unloadingTerm": 7914
+    },
+    {
+      "tArrival": 2482,
+      "name": "Rosenbaum",
+      "cargoType": "BULK",
+      "cargoWeight": 99896.2,
+      "unloadingTerm": 8611
+    },
+    {
+      "tArrival": 2925,
+      "name": "Schultz",
+      "cargoType": "LIQUID",
+      "cargoWeight": 296129.12,
+      "unloadingTerm": 8365
+    },
+    {
+      "tArrival": 3000,
+      "name": "Runte",
+      "cargoType": "BULK",
+      "cargoWeight": 90589.7,
+      "unloadingTerm": 7809
+    },
+    {
+      "tArrival": 3315,
+      "name": "Connelly",
+      "cargoType": "BULK",
+      "cargoWeight": 80237.94,
+      "unloadingTerm": 6917
+    },
+    {
+      "tArrival": 3365,
+      "name": "Kunde",
+      "cargoType": "BULK",
+      "cargoWeight": 90319.445,
+      "unloadingTerm": 7786
+    },
+    {
+      "tArrival": 3653,
+      "name": "Gleichner",
+      "cargoType": "LIQUID",
+      "cargoWeight": 241240.11,
+      "unloadingTerm": 6814
+    },
+    {
+      "tArrival": 5582,
+      "name": "Ernser",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 10673,
+      "unloadingTerm": 6278
+    },
+    {
+      "tArrival": 5920,
+      "name": "Kohler",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 5865,
+      "unloadingTerm": 3450
+    },
+    {
+      "tArrival": 6757,
+      "name": "Kilback",
+      "cargoType": "BULK",
+      "cargoWeight": 98068.6,
+      "unloadingTerm": 8454
+    },
+    {
+      "tArrival": 7024,
+      "name": "O'Connell",
+      "cargoType": "LIQUID",
+      "cargoWeight": 234789.83,
+      "unloadingTerm": 6632
+    },
+    {
+      "tArrival": 7628,
+      "name": "Homenick",
+      "cargoType": "LIQUID",
+      "cargoWeight": 199218.97,
+      "unloadingTerm": 5627
+    },
+    {
+      "tArrival": 8374,
+      "name": "Ullrich",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 5032,
+      "unloadingTerm": 2960
+    },
+    {
+      "tArrival": 9865,
+      "name": "Kuhic",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 2741,
+      "unloadingTerm": 1612
+    },
+    {
+      "tArrival": 10099,
+      "name": "Haley",
+      "cargoType": "BULK",
+      "cargoWeight": 99417.68,
+      "unloadingTerm": 8570
+    },
+    {
+      "tArrival": 10492,
+      "name": "Tillman",
+      "cargoType": "LIQUID",
+      "cargoWeight": 157447.84,
+      "unloadingTerm": 4447
+    },
+    {
+      "tArrival": 11407,
+      "name": "Durgan",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 6556,
+      "unloadingTerm": 3856
+    },
+    {
+      "tArrival": 11674,
+      "name": "Cremin",
+      "cargoType": "LIQUID",
+      "cargoWeight": 21579.82,
+      "unloadingTerm": 609
+    },
+    {
+      "tArrival": 11829,
+      "name": "Skiles",
+      "cargoType": "BULK",
+      "cargoWeight": 81037.305,
+      "unloadingTerm": 6985
+    },
+    {
+      "tArrival": 12473,
+      "name": "Schinner",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 13275,
+      "unloadingTerm": 7808
+    },
+    {
+      "tArrival": 12674,
+      "name": "Pacocha",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 1206,
+      "unloadingTerm": 709
+    },
+    {
+      "tArrival": 12865,
+      "name": "Kuhn",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 12086,
+      "unloadingTerm": 7109
+    },
+    {
+      "tArrival": 13487,
+      "name": "Wintheiser",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 10979,
+      "unloadingTerm": 6458
+    },
+    {
+      "tArrival": 13555,
+      "name": "Tillman",
+      "cargoType": "LIQUID",
+      "cargoWeight": 96015.18,
+      "unloadingTerm": 2712
+    },
+    {
+      "tArrival": 13756,
+      "name": "Dickinson",
+      "cargoType": "LIQUID",
+      "cargoWeight": 34846.168,
+      "unloadingTerm": 984
+    },
+    {
+      "tArrival": 14526,
+      "name": "Koch",
+      "cargoType": "BULK",
+      "cargoWeight": 52685.94,
+      "unloadingTerm": 4541
+    },
+    {
+      "tArrival": 14548,
+      "name": "Yundt",
+      "cargoType": "BULK",
+      "cargoWeight": 45928.402,
+      "unloadingTerm": 3959
+    },
+    {
+      "tArrival": 15100,
+      "name": "Yundt",
+      "cargoType": "LIQUID",
+      "cargoWeight": 266012.47,
+      "unloadingTerm": 7514
+    },
+    {
+      "tArrival": 15195,
+      "name": "Bode",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 3108,
+      "unloadingTerm": 1828
+    },
+    {
+      "tArrival": 15389,
+      "name": "Ledner",
+      "cargoType": "LIQUID",
+      "cargoWeight": 78918.63,
+      "unloadingTerm": 2229
+    },
+    {
+      "tArrival": 16224,
+      "name": "Weimann",
+      "cargoType": "BULK",
+      "cargoWeight": 28478.92,
+      "unloadingTerm": 2455
+    },
+    {
+      "tArrival": 16401,
+      "name": "Brakus",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 10792,
+      "unloadingTerm": 6348
+    },
+    {
+      "tArrival": 17068,
+      "name": "Gulgowski",
+      "cargoType": "LIQUID",
+      "cargoWeight": 3418.0283,
+      "unloadingTerm": 96
+    },
+    {
+      "tArrival": 17114,
+      "name": "Shanahan",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 967,
+      "unloadingTerm": 568
+    },
+    {
+      "tArrival": 17276,
+      "name": "Sporer",
+      "cargoType": "BULK",
+      "cargoWeight": 78461.78,
+      "unloadingTerm": 6763
+    },
+    {
+      "tArrival": 17668,
+      "name": "Smith",
+      "cargoType": "BULK",
+      "cargoWeight": 38864.88,
+      "unloadingTerm": 3350
+    },
+    {
+      "tArrival": 17970,
+      "name": "Keeling",
+      "cargoType": "LIQUID",
+      "cargoWeight": 227255.7,
+      "unloadingTerm": 6419
+    },
+    {
+      "tArrival": 18050,
+      "name": "Davis",
+      "cargoType": "LIQUID",
+      "cargoWeight": 171698.06,
+      "unloadingTerm": 4850
+    },
+    {
+      "tArrival": 18740,
+      "name": "Hoppe",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 10278,
+      "unloadingTerm": 6045
+    },
+    {
+      "tArrival": 18799,
+      "name": "Bauch",
+      "cargoType": "BULK",
+      "cargoWeight": 36344.004,
+      "unloadingTerm": 3133
+    },
+    {
+      "tArrival": 19044,
+      "name": "Lang",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 8592,
+      "unloadingTerm": 5054
+    },
+    {
+      "tArrival": 19471,
+      "name": "Mann",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 6299,
+      "unloadingTerm": 3705
+    },
+    {
+      "tArrival": 21041,
+      "name": "Mueller",
+      "cargoType": "BULK",
+      "cargoWeight": 45340.906,
+      "unloadingTerm": 3908
+    },
+    {
+      "tArrival": 21079,
+      "name": "Hilpert",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 6443,
+      "unloadingTerm": 3790
+    },
+    {
+      "tArrival": 21990,
+      "name": "Hessel",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 9080,
+      "unloadingTerm": 5341
+    },
+    {
+      "tArrival": 23216,
+      "name": "Mann",
+      "cargoType": "BULK",
+      "cargoWeight": 38522.41,
+      "unloadingTerm": 3320
+    },
+    {
+      "tArrival": 23280,
+      "name": "Breitenberg",
+      "cargoType": "BULK",
+      "cargoWeight": 90969.98,
+      "unloadingTerm": 7842
+    },
+    {
+      "tArrival": 23285,
+      "name": "Shanahan",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 8551,
+      "unloadingTerm": 5030
+    },
+    {
+      "tArrival": 24110,
+      "name": "Klocko",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 310,
+      "unloadingTerm": 182
+    },
+    {
+      "tArrival": 24116,
+      "name": "Reynolds",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 2696,
+      "unloadingTerm": 1585
+    },
+    {
+      "tArrival": 24414,
+      "name": "McClure",
+      "cargoType": "LIQUID",
+      "cargoWeight": 228743.94,
+      "unloadingTerm": 6461
+    },
+    {
+      "tArrival": 25365,
+      "name": "Hilpert",
+      "cargoType": "BULK",
+      "cargoWeight": 53129.387,
+      "unloadingTerm": 4580
+    },
+    {
+      "tArrival": 25454,
+      "name": "Collins",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 4759,
+      "unloadingTerm": 2799
+    },
+    {
+      "tArrival": 25704,
+      "name": "Cormier",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 6400,
+      "unloadingTerm": 3764
+    },
+    {
+      "tArrival": 26010,
+      "name": "O'Conner",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 13161,
+      "unloadingTerm": 7741
+    },
+    {
+      "tArrival": 26224,
+      "name": "Steuber",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 2999,
+      "unloadingTerm": 1764
+    },
+    {
+      "tArrival": 26238,
+      "name": "Schneider",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 5071,
+      "unloadingTerm": 2982
+    },
+    {
+      "tArrival": 26835,
+      "name": "Jaskolski",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 7822,
+      "unloadingTerm": 4601
+    },
+    {
+      "tArrival": 26962,
+      "name": "Yundt",
+      "cargoType": "LIQUID",
+      "cargoWeight": 106201.85,
+      "unloadingTerm": 3000
+    },
+    {
+      "tArrival": 27156,
+      "name": "Feil",
+      "cargoType": "BULK",
+      "cargoWeight": 53991.45,
+      "unloadingTerm": 4654
+    },
+    {
+      "tArrival": 27539,
+      "name": "Hoppe",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 6759,
+      "unloadingTerm": 3975
+    },
+    {
+      "tArrival": 28596,
+      "name": "Schulist",
+      "cargoType": "BULK",
+      "cargoWeight": 21446.777,
+      "unloadingTerm": 1848
+    },
+    {
+      "tArrival": 28749,
+      "name": "Lesch",
+      "cargoType": "LIQUID",
+      "cargoWeight": 149121.98,
+      "unloadingTerm": 4212
+    },
+    {
+      "tArrival": 28756,
+      "name": "Purdy",
+      "cargoType": "LIQUID",
+      "cargoWeight": 141496.55,
+      "unloadingTerm": 3997
+    },
+    {
+      "tArrival": 29183,
+      "name": "Satterfield",
+      "cargoType": "BULK",
+      "cargoWeight": 16808.504,
+      "unloadingTerm": 1449
+    },
+    {
+      "tArrival": 29219,
+      "name": "Bogan",
+      "cargoType": "BULK",
+      "cargoWeight": 1516.0322,
+      "unloadingTerm": 130
+    },
+    {
+      "tArrival": 29240,
+      "name": "Macejkovic",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 2619,
+      "unloadingTerm": 1540
+    },
+    {
+      "tArrival": 30216,
+      "name": "Ebert",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 11444,
+      "unloadingTerm": 6731
+    },
+    {
+      "tArrival": 30659,
+      "name": "Schultz",
+      "cargoType": "LIQUID",
+      "cargoWeight": 258398.7,
+      "unloadingTerm": 7299
+    },
+    {
+      "tArrival": 30768,
+      "name": "Barton",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 8972,
+      "unloadingTerm": 5277
+    },
+    {
+      "tArrival": 31159,
+      "name": "Zboncak",
+      "cargoType": "LIQUID",
+      "cargoWeight": 283327.25,
+      "unloadingTerm": 8003
+    },
+    {
+      "tArrival": 31184,
+      "name": "Kunze",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 2416,
+      "unloadingTerm": 1421
+    },
+    {
+      "tArrival": 31506,
+      "name": "Christiansen",
+      "cargoType": "BULK",
+      "cargoWeight": 6129.76,
+      "unloadingTerm": 528
+    },
+    {
+      "tArrival": 32980,
+      "name": "Reynolds",
+      "cargoType": "BULK",
+      "cargoWeight": 43448.008,
+      "unloadingTerm": 3745
+    },
+    {
+      "tArrival": 33241,
+      "name": "Altenwerth",
+      "cargoType": "BULK",
+      "cargoWeight": 33095.723,
+      "unloadingTerm": 2853
+    },
+    {
+      "tArrival": 33722,
+      "name": "Dickinson",
+      "cargoType": "LIQUID",
+      "cargoWeight": 227501.92,
+      "unloadingTerm": 6426
+    },
+    {
+      "tArrival": 35728,
+      "name": "Durgan",
+      "cargoType": "LIQUID",
+      "cargoWeight": 78257.12,
+      "unloadingTerm": 2210
+    },
+    {
+      "tArrival": 36299,
+      "name": "Gusikowski",
+      "cargoType": "LIQUID",
+      "cargoWeight": 286967.06,
+      "unloadingTerm": 8106
+    },
+    {
+      "tArrival": 36419,
+      "name": "Bins",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 14454,
+      "unloadingTerm": 8502
+    },
+    {
+      "tArrival": 36771,
+      "name": "Lakin",
+      "cargoType": "LIQUID",
+      "cargoWeight": 174425.11,
+      "unloadingTerm": 4927
+    },
+    {
+      "tArrival": 36985,
+      "name": "Medhurst",
+      "cargoType": "LIQUID",
+      "cargoWeight": 123601.43,
+      "unloadingTerm": 3491
+    },
+    {
+      "tArrival": 37349,
+      "name": "Bosco",
+      "cargoType": "BULK",
+      "cargoWeight": 13075.655,
+      "unloadingTerm": 1127
+    },
+    {
+      "tArrival": 37483,
+      "name": "O'Kon",
+      "cargoType": "LIQUID",
+      "cargoWeight": 179715.61,
+      "unloadingTerm": 5076
+    },
+    {
+      "tArrival": 38017,
+      "name": "Russel",
+      "cargoType": "BULK",
+      "cargoWeight": 25722.51,
+      "unloadingTerm": 2217
+    },
+    {
+      "tArrival": 38038,
+      "name": "Herman",
+      "cargoType": "LIQUID",
+      "cargoWeight": 231471.77,
+      "unloadingTerm": 6538
+    },
+    {
+      "tArrival": 38311,
+      "name": "Ondricka",
+      "cargoType": "LIQUID",
+      "cargoWeight": 96731.38,
+      "unloadingTerm": 2732
+    },
+    {
+      "tArrival": 39186,
+      "name": "Lindgren",
+      "cargoType": "LIQUID",
+      "cargoWeight": 125655.25,
+      "unloadingTerm": 3549
+    },
+    {
+      "tArrival": 39251,
+      "name": "Shanahan",
+      "cargoType": "BULK",
+      "cargoWeight": 94391.97,
+      "unloadingTerm": 8137
+    },
+    {
+      "tArrival": 41203,
+      "name": "Kuphal",
+      "cargoType": "BULK",
+      "cargoWeight": 97454.586,
+      "unloadingTerm": 8401
+    },
+    {
+      "tArrival": 41593,
+      "name": "Quitzon",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 667,
+      "unloadingTerm": 392
+    },
+    {
+      "tArrival": 41752,
+      "name": "Morissette",
+      "cargoType": "CONTAINER",
+      "cargoWeight": 11431,
+      "unloadingTerm": 6724
+    },
+    {
+      "tArrival": 41820,
+      "name": "Gutkowski",
+      "cargoType": "LIQUID",
+      "cargoWeight": 280863.7,
+      "unloadingTerm": 7934
+    },
+    {
+      "tArrival": 42409,
+      "name": "Pacocha",
+      "cargoType": "LIQUID",
+      "cargoWeight": 196520.05,
+      "unloadingTerm": 5551
+    },
+    {
+      "tArrival": 42654,
+      "name": "Williamson",
+      "cargoType": "BULK",
+      "cargoWeight": 90268.92,
+      "unloadingTerm": 7781
+    }
+  ]
+}

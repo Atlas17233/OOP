@@ -1,0 +1,689 @@
+[
+  {
+    "Cargo type": "BULK",
+    "Unloaded ships": 28,
+    "Average unloading queue length": 1,
+    "Average waiting time in queue": 0,
+    "Max unload delay": 1423,
+    "Average unload delay": 714,
+    "Total penalty": 2270900,
+    "cranes": 9,
+    "Unloaded list": [
+      {
+        "Ship name": "Von",
+        "Arrival time": "2021-04-28 04:24",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-04-28 04:24",
+        "Unloading time": "02:11:32"
+      },
+      {
+        "Ship name": "Lockman",
+        "Arrival time": "2021-04-28 08:38",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-04-28 08:38",
+        "Unloading time": "00:19:19"
+      },
+      {
+        "Ship name": "Rosenbaum",
+        "Arrival time": "2021-04-29 04:35",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-04-29 04:35",
+        "Unloading time": "02:23:45"
+      },
+      {
+        "Ship name": "Runte",
+        "Arrival time": "2021-04-29 13:17",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-04-29 13:17",
+        "Unloading time": "02:17:04"
+      },
+      {
+        "Ship name": "Connelly",
+        "Arrival time": "2021-04-29 18:29",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-04-29 18:29",
+        "Unloading time": "04:19:17"
+      },
+      {
+        "Ship name": "Kunde",
+        "Arrival time": "2021-04-29 19:15",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-04-29 19:15",
+        "Unloading time": "02:16:53"
+      },
+      {
+        "Ship name": "Kilback",
+        "Arrival time": "2021-05-02 03:50",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-02 03:50",
+        "Unloading time": "02:22:27"
+      },
+      {
+        "Ship name": "Haley",
+        "Arrival time": "2021-05-04 11:39",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-04 11:39",
+        "Unloading time": "02:23:25"
+      },
+      {
+        "Ship name": "Skiles",
+        "Arrival time": "2021-05-05 16:21",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-05 16:21",
+        "Unloading time": "02:10:12"
+      },
+      {
+        "Ship name": "Koch",
+        "Arrival time": "2021-05-07 13:24",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-07 13:24",
+        "Unloading time": "01:13:50"
+      },
+      {
+        "Ship name": "Yundt",
+        "Arrival time": "2021-05-07 13:40",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-07 13:40",
+        "Unloading time": "02:17:59"
+      },
+      {
+        "Ship name": "Weimann",
+        "Arrival time": "2021-05-08 17:39",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-08 17:39",
+        "Unloading time": "00:20:27"
+      },
+      {
+        "Ship name": "Sporer",
+        "Arrival time": "2021-05-09 11:16",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-09 11:16",
+        "Unloading time": "02:08:21"
+      },
+      {
+        "Ship name": "Smith",
+        "Arrival time": "2021-05-09 17:44",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-09 17:44",
+        "Unloading time": "01:03:55"
+      },
+      {
+        "Ship name": "Bauch",
+        "Arrival time": "2021-05-10 12:30",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-10 12:30",
+        "Unloading time": "01:02:06"
+      },
+      {
+        "Ship name": "Mueller",
+        "Arrival time": "2021-05-12 01:55",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-12 01:55",
+        "Unloading time": "02:17:08"
+      },
+      {
+        "Ship name": "Mann",
+        "Arrival time": "2021-05-13 14:15",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-13 14:15",
+        "Unloading time": "01:03:40"
+      },
+      {
+        "Ship name": "Breitenberg",
+        "Arrival time": "2021-05-13 15:12",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-13 15:12",
+        "Unloading time": "02:17:21"
+      },
+      {
+        "Ship name": "Hilpert",
+        "Arrival time": "2021-05-15 02:03",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-15 02:03",
+        "Unloading time": "01:14:10"
+      },
+      {
+        "Ship name": "Feil",
+        "Arrival time": "2021-05-16 07:56",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-16 07:56",
+        "Unloading time": "01:14:47"
+      },
+      {
+        "Ship name": "Schulist",
+        "Arrival time": "2021-05-17 07:49",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-17 07:49",
+        "Unloading time": "01:06:48"
+      },
+      {
+        "Ship name": "Satterfield",
+        "Arrival time": "2021-05-17 17:39",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-17 17:39",
+        "Unloading time": "00:12:04"
+      },
+      {
+        "Ship name": "Bogan",
+        "Arrival time": "2021-05-17 18:16",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-17 18:16",
+        "Unloading time": "00:01:05"
+      },
+      {
+        "Ship name": "Christiansen",
+        "Arrival time": "2021-05-19 08:22",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-19 08:22",
+        "Unloading time": "00:04:24"
+      },
+      {
+        "Ship name": "Reynolds",
+        "Arrival time": "2021-05-20 08:57",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-20 08:57",
+        "Unloading time": "01:07:12"
+      },
+      {
+        "Ship name": "Altenwerth",
+        "Arrival time": "2021-05-20 13:23",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-20 13:23",
+        "Unloading time": "00:23:46"
+      },
+      {
+        "Ship name": "Bosco",
+        "Arrival time": "2021-05-23 09:43",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-23 09:43",
+        "Unloading time": "00:09:23"
+      },
+      {
+        "Ship name": "Russel",
+        "Arrival time": "2021-05-23 20:59",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-23 20:59",
+        "Unloading time": "01:12:57"
+      }
+    ]
+  },
+  {
+    "Cargo type": "LIQUID",
+    "Unloaded ships": 30,
+    "Average unloading queue length": 2,
+    "Average waiting time in queue": 43,
+    "Max unload delay": 1294,
+    "Average unload delay": 742,
+    "Total penalty": 2699500,
+    "cranes": 11,
+    "Unloaded list": [
+      {
+        "Ship name": "Gleichner",
+        "Arrival time": "2021-04-28 03:11",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-04-28 03:11",
+        "Unloading time": "02:21:24"
+      },
+      {
+        "Ship name": "Howell",
+        "Arrival time": "2021-04-28 11:23",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-04-28 11:23",
+        "Unloading time": "02:16:57"
+      },
+      {
+        "Ship name": "Schumm",
+        "Arrival time": "2021-04-28 23:03",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-04-28 23:03",
+        "Unloading time": "02:17:57"
+      },
+      {
+        "Ship name": "Schultz",
+        "Arrival time": "2021-04-29 11:57",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-04-29 11:57",
+        "Unloading time": "02:21:42"
+      },
+      {
+        "Ship name": "Gleichner",
+        "Arrival time": "2021-04-30 00:15",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-04-30 00:15",
+        "Unloading time": "02:08:47"
+      },
+      {
+        "Ship name": "O'Connell",
+        "Arrival time": "2021-05-02 08:22",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-02 08:22",
+        "Unloading time": "04:14:32"
+      },
+      {
+        "Ship name": "Homenick",
+        "Arrival time": "2021-05-02 18:19",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-02 18:19",
+        "Unloading time": "01:22:53"
+      },
+      {
+        "Ship name": "Tillman",
+        "Arrival time": "2021-05-04 18:09",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-04 18:09",
+        "Unloading time": "01:13:03"
+      },
+      {
+        "Ship name": "Cremin",
+        "Arrival time": "2021-05-05 13:52",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-05 13:52",
+        "Unloading time": "00:05:04"
+      },
+      {
+        "Ship name": "Tillman",
+        "Arrival time": "2021-05-06 21:10",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-06 21:10",
+        "Unloading time": "00:22:36"
+      },
+      {
+        "Ship name": "Dickinson",
+        "Arrival time": "2021-05-07 00:27",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-07 00:27",
+        "Unloading time": "00:08:12"
+      },
+      {
+        "Ship name": "Yundt",
+        "Arrival time": "2021-05-07 22:50",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-07 22:50",
+        "Unloading time": "02:14:37"
+      },
+      {
+        "Ship name": "Ledner",
+        "Arrival time": "2021-05-08 03:44",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-08 03:44",
+        "Unloading time": "00:18:34"
+      },
+      {
+        "Ship name": "Gulgowski",
+        "Arrival time": "2021-05-09 07:49",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-09 07:49",
+        "Unloading time": "00:00:48"
+      },
+      {
+        "Ship name": "Keeling",
+        "Arrival time": "2021-05-09 22:53",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-09 22:53",
+        "Unloading time": "04:10:59"
+      },
+      {
+        "Ship name": "Davis",
+        "Arrival time": "2021-05-10 00:04",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-10 00:04",
+        "Unloading time": "01:16:25"
+      },
+      {
+        "Ship name": "McClure",
+        "Arrival time": "2021-05-14 10:16",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-14 10:16",
+        "Unloading time": "02:05:50"
+      },
+      {
+        "Ship name": "Yundt",
+        "Arrival time": "2021-05-16 04:40",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-16 04:40",
+        "Unloading time": "01:01:00"
+      },
+      {
+        "Ship name": "Purdy",
+        "Arrival time": "2021-05-17 10:28",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-17 10:28",
+        "Unloading time": "01:09:18"
+      },
+      {
+        "Ship name": "Lesch",
+        "Arrival time": "2021-05-17 10:32",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-17 10:32",
+        "Unloading time": "01:11:06"
+      },
+      {
+        "Ship name": "Schultz",
+        "Arrival time": "2021-05-18 18:14",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-18 18:14",
+        "Unloading time": "02:12:49"
+      },
+      {
+        "Ship name": "Zboncak",
+        "Arrival time": "2021-05-19 02:40",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-19 02:40",
+        "Unloading time": "05:13:23"
+      },
+      {
+        "Ship name": "Dickinson",
+        "Arrival time": "2021-05-20 21:18",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-20 21:18",
+        "Unloading time": "02:05:33"
+      },
+      {
+        "Ship name": "Durgan",
+        "Arrival time": "2021-05-22 06:41",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-22 06:41",
+        "Unloading time": "00:18:25"
+      },
+      {
+        "Ship name": "Gusikowski",
+        "Arrival time": "2021-05-22 16:17",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-22 16:17",
+        "Unloading time": "02:19:33"
+      },
+      {
+        "Ship name": "Lakin",
+        "Arrival time": "2021-05-23 00:07",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-23 00:07",
+        "Unloading time": "01:17:03"
+      },
+      {
+        "Ship name": "Medhurst",
+        "Arrival time": "2021-05-23 03:43",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-23 03:43",
+        "Unloading time": "01:05:05"
+      },
+      {
+        "Ship name": "O'Kon",
+        "Arrival time": "2021-05-23 12:01",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-23 12:01",
+        "Unloading time": "01:18:18"
+      },
+      {
+        "Ship name": "Herman",
+        "Arrival time": "2021-05-23 21:20",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-23 21:20",
+        "Unloading time": "02:06:29"
+      },
+      {
+        "Ship name": "Ondricka",
+        "Arrival time": "2021-05-24 01:52",
+        "Waiting time": "00:18:37",
+        "Start time": "2021-05-24 20:29",
+        "Unloading time": "00:22:46"
+      }
+    ]
+  },
+  {
+    "Cargo type": "CONTAINER",
+    "Unloaded ships": 35,
+    "Average unloading queue length": 1,
+    "Average waiting time in queue": 0,
+    "Max unload delay": 1435,
+    "Average unload delay": 746,
+    "Total penalty": 2943200,
+    "cranes": 11,
+    "Unloaded list": [
+      {
+        "Ship name": "Renner",
+        "Arrival time": "2021-04-27 22:03",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-04-27 22:03",
+        "Unloading time": "00:05:56"
+      },
+      {
+        "Ship name": "Feest",
+        "Arrival time": "2021-04-28 11:25",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-04-28 11:25",
+        "Unloading time": "00:11:07"
+      },
+      {
+        "Ship name": "Ernser",
+        "Arrival time": "2021-05-01 08:20",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-01 08:20",
+        "Unloading time": "02:04:19"
+      },
+      {
+        "Ship name": "Kohler",
+        "Arrival time": "2021-05-01 13:50",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-01 13:50",
+        "Unloading time": "01:04:45"
+      },
+      {
+        "Ship name": "Ullrich",
+        "Arrival time": "2021-05-03 06:52",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-03 06:52",
+        "Unloading time": "01:00:40"
+      },
+      {
+        "Ship name": "Kuhic",
+        "Arrival time": "2021-05-04 07:45",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-04 07:45",
+        "Unloading time": "01:02:52"
+      },
+      {
+        "Ship name": "Durgan",
+        "Arrival time": "2021-05-05 09:24",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-05 09:24",
+        "Unloading time": "01:08:08"
+      },
+      {
+        "Ship name": "Schinner",
+        "Arrival time": "2021-05-06 03:14",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-06 03:14",
+        "Unloading time": "02:17:04"
+      },
+      {
+        "Ship name": "Pacocha",
+        "Arrival time": "2021-05-06 06:29",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-06 06:29",
+        "Unloading time": "00:05:54"
+      },
+      {
+        "Ship name": "Kuhn",
+        "Arrival time": "2021-05-06 09:36",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-06 09:36",
+        "Unloading time": "02:11:14"
+      },
+      {
+        "Ship name": "Wintheiser",
+        "Arrival time": "2021-05-06 19:57",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-06 19:57",
+        "Unloading time": "02:05:49"
+      },
+      {
+        "Ship name": "Bode",
+        "Arrival time": "2021-05-08 00:27",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-08 00:27",
+        "Unloading time": "01:06:28"
+      },
+      {
+        "Ship name": "Brakus",
+        "Arrival time": "2021-05-08 20:35",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-08 20:35",
+        "Unloading time": "02:04:54"
+      },
+      {
+        "Ship name": "Shanahan",
+        "Arrival time": "2021-05-09 08:25",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-09 08:25",
+        "Unloading time": "00:04:44"
+      },
+      {
+        "Ship name": "Hoppe",
+        "Arrival time": "2021-05-10 11:38",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-10 11:38",
+        "Unloading time": "02:02:22"
+      },
+      {
+        "Ship name": "Lang",
+        "Arrival time": "2021-05-10 16:37",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-10 16:37",
+        "Unloading time": "03:12:14"
+      },
+      {
+        "Ship name": "Mann",
+        "Arrival time": "2021-05-10 23:50",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-10 23:50",
+        "Unloading time": "01:06:52"
+      },
+      {
+        "Ship name": "Hilpert",
+        "Arrival time": "2021-05-12 02:32",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-12 02:32",
+        "Unloading time": "01:07:35"
+      },
+      {
+        "Ship name": "Hessel",
+        "Arrival time": "2021-05-12 17:52",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-12 17:52",
+        "Unloading time": "01:20:30"
+      },
+      {
+        "Ship name": "Shanahan",
+        "Arrival time": "2021-05-13 15:22",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-13 15:22",
+        "Unloading time": "01:17:55"
+      },
+      {
+        "Ship name": "Klocko",
+        "Arrival time": "2021-05-14 05:01",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-14 05:01",
+        "Unloading time": "00:01:31"
+      },
+      {
+        "Ship name": "Reynolds",
+        "Arrival time": "2021-05-14 05:12",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-14 05:12",
+        "Unloading time": "00:13:12"
+      },
+      {
+        "Ship name": "Collins",
+        "Arrival time": "2021-05-15 03:36",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-15 03:36",
+        "Unloading time": "00:23:19"
+      },
+      {
+        "Ship name": "Cormier",
+        "Arrival time": "2021-05-15 07:38",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-15 07:38",
+        "Unloading time": "02:14:44"
+      },
+      {
+        "Ship name": "O'Conner",
+        "Arrival time": "2021-05-15 12:45",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-15 12:45",
+        "Unloading time": "02:16:30"
+      },
+      {
+        "Ship name": "Steuber",
+        "Arrival time": "2021-05-15 16:21",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-15 16:21",
+        "Unloading time": "00:14:42"
+      },
+      {
+        "Ship name": "Schneider",
+        "Arrival time": "2021-05-15 16:38",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-15 16:38",
+        "Unloading time": "01:00:51"
+      },
+      {
+        "Ship name": "Jaskolski",
+        "Arrival time": "2021-05-16 02:37",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-16 02:37",
+        "Unloading time": "01:14:20"
+      },
+      {
+        "Ship name": "Hoppe",
+        "Arrival time": "2021-05-16 14:11",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-16 14:11",
+        "Unloading time": "01:09:07"
+      },
+      {
+        "Ship name": "Macejkovic",
+        "Arrival time": "2021-05-17 18:41",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-17 18:41",
+        "Unloading time": "00:12:50"
+      },
+      {
+        "Ship name": "Ebert",
+        "Arrival time": "2021-05-18 10:58",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-18 10:58",
+        "Unloading time": "02:08:05"
+      },
+      {
+        "Ship name": "Barton",
+        "Arrival time": "2021-05-18 20:03",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-18 20:03",
+        "Unloading time": "03:15:57"
+      },
+      {
+        "Ship name": "Kunze",
+        "Arrival time": "2021-05-19 02:54",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-19 02:54",
+        "Unloading time": "00:11:50"
+      },
+      {
+        "Ship name": "Bins",
+        "Arrival time": "2021-05-22 18:14",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-22 18:14",
+        "Unloading time": "02:22:51"
+      },
+      {
+        "Ship name": "Quitzon",
+        "Arrival time": "2021-05-26 08:33",
+        "Waiting time": "00:00:00",
+        "Start time": "2021-05-26 08:33",
+        "Unloading time": "00:03:16"
+      }
+    ]
+  }
+]
